@@ -1,0 +1,30 @@
+{
+  "name": "paulaalli",
+  "displayName": "Paula's Clean",
+  "description": "Icones mais bonitos e limpos para Visual Studio Code.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "publisher": "PaulaAlli",
+  "author": {
+    "name": "Paula Alli"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#212628",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "paulaalli",
+        "label": "Paula's Clean",
+        "path": "./fileicons/paulas_clean-icon-theme.json"
+      }
+    ]
+  }
+}
