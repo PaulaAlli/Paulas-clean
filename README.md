@@ -11,8 +11,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://vsmarketplacebadges.dev/version-short/paulaalli.paulaalli.svg?style=for-the-badge&colorA=ce5636&colorB=212628&label=Versao">
-  <img src="https://vsmarketplacebadges.dev/downloads/paulaalli.paulaalli.svg?style=for-the-badge&colorA=ce5636&colorB=212628&label=Downloads">
+  <a href="https://marketplace.visualstudio.com/items?itemName=PaulaAlli.paulaalli"><img src="https://vsmarketplacebadges.dev/version-short/paulaalli.paulaalli.svg?style=for-the-badge&colorA=ce5636&colorB=212628&label=Versao"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=PaulaAlli.paulaalli"><img src="https://vsmarketplacebadges.dev/downloads/paulaalli.paulaalli.svg?style=for-the-badge&colorA=ce5636&colorB=212628&label=Downloads"></a>
 </p>
 
 <h6 align="center"> by Paula Alli </h6>
